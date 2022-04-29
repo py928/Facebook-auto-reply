@@ -1,3 +1,7 @@
+'''
+facebook : python928
+email : python928@gmail.com
+'''
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium import webdriver
 from selenium.webdriver.common.by import By
